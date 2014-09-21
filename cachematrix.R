@@ -1,6 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
-
+##
+##
 ## R Programming Assignment 2: Caching the Inverse of a Matrix
 ##
 ## The first function: makeCacheMatrix function, creates a special "matrix",
