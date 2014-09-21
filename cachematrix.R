@@ -1,4 +1,5 @@
 ## https://github.com/Fa8tality/ProgrammingAssignment2.git
+## SHA-1 hash id: 78c54751e060e70f0e323422922c1fc5c8d10d92
 ##
 ## R Programming Assignment 2: Caching the Inverse of a Matrix
 ##
